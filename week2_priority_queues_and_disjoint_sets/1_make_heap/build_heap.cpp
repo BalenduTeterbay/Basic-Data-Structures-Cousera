@@ -2,15 +2,6 @@
 #include <vector>
 #include <algorithm>
 #include <math.h>
-
-/*********************************
-******                      ******
-***        Ayran Olckers       ***
-**                              **
-**            07/2019           **
-******                      ******
-**********************************/
-
 using std::vector;
 using std::cin;
 using std::cout;
